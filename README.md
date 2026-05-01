@@ -1,5 +1,5 @@
 # Hi there 👋
-I like tech
+My name's efenow. I'm a Turkish Developer who likes tinkering with all sorts of technology. I have a passion for Open Source Tech, Homelabs and Smart Homes -especially Home Assistant!
 
 ### 📎 Hobbies:
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) and more...
