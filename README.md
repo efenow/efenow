@@ -19,7 +19,7 @@ I like tech
 ![](https://github-contributor-stats.vercel.app/api?username=efenow&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=efenow&icon=3&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=efenow&icon=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
